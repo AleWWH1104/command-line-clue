@@ -17,3 +17,6 @@ La  segunda pista es en el sandbox y encontramos al chef y al teacher en ellos l
 pero dice que vaya al colegio.
 Fuimos al gimnasio y no estaba vacio, asi que fuimos al classroom y se encontro el letter opener y la pista nos 
 dirige a la kiitchen.
+
+El misterio fue resuelto, fuimos a la cocina y termino todo, no habia personas ni objetos, estaba vacio, por lo 
+tanto fue el innkeeper con glass bottle como arma.
